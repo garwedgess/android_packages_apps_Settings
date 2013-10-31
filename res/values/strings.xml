@@ -5518,6 +5518,8 @@
     <string name="title_animation_no_override">Prevent App Overrides</string>
     <string name="summary_animation_no_override">Prevent apps from overriding transitions.</string>
     <string name="animation_duration_default">Default</string>
+    <string name="title_nexus_sys_animation">Nexus Animations</string>
+    <string name="summary_nexus_sys_animation">Use full Nexus 7 style system animations.</string>
 
     <!-- Roaming Date Settings -->
     <string name="label_global_roaming_settings">Global roaming settings</string>
